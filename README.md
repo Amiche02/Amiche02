@@ -109,19 +109,19 @@ I approach data challenges with both analytical precision and creative problem-s
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amiche02&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amiche02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiche02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Amiche02&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Amiche02&theme=dark&hide_border=false&count_private=true" alt="GitHub Streak" />
 </div>
 
 <br><br>
 
 ### 🔝 Top Contributed Repositories
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Amiche02&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Amiche02&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true" alt="Top Contributed Repos" />
 </div>
 
 <br><br>
