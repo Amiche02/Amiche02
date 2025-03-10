@@ -70,27 +70,6 @@ graph TD
 ![Azure](https://img.shields.io/badge/Azure-Intermediate-blue?style=flat-square&logo=microsoft-azure)
 ![Linux](https://img.shields.io/badge/Linux-Advanced-black?style=flat-square&logo=linux)
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 🚀 Projets principaux
-
-<a href="https://github.com/VOTRE_NOM_UTILISATEUR/brain-tumor-classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_NOM_UTILISATEUR&repo=brain-tumor-classification&theme=radical" />
-</a>
-<a href="https://github.com/VOTRE_NOM_UTILISATEUR/football-video-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_NOM_UTILISATEUR&repo=football-video-analysis&theme=radical" />
-</a>
-<a href="https://github.com/VOTRE_NOM_UTILISATEUR/plant-disease-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_NOM_UTILISATEUR&repo=plant-disease-detection&theme=radical" />
-</a>
-<a href="https://github.com/VOTRE_NOM_UTILISATEUR/rag-llm-chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_NOM_UTILISATEUR&repo=rag-llm-chatbot&theme=radical" />
-</a>
 
 ## 📚 Publications et Apprentissage en Public
 
